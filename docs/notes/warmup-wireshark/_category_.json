@@ -1,0 +1,8 @@
+{
+  "label": "warmup-wireshark",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Warmup Wireshark exercises."
+  }
+}

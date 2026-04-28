@@ -1,0 +1,8 @@
+{
+  "label": "TryHackMe",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "My TryHackMe writeups. I will be adding more as I complete more rooms."
+  }
+}
